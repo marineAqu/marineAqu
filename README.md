@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![marineAqu's GitHub stats](https://github-readme-stats.vercel.app/api?username=marineAqu&show_icons=true&theme=transparent)
 -->
 
-#Contact Me
+# Contact Me
 
 
 # 💪Skills
