@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 # Contact Me
-
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wii021004@naver.com)](mailto:wii021004@naver.com)
 
 # 💪Skills
 ### Platforms & Languages
