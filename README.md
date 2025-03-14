@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 ![marineAqu's GitHub stats](https://github-readme-stats.vercel.app/api?username=marineAqu&show_icons=true&theme=transparent)
 -->
 
-# Contact Me
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wii021004@naver.com)](mailto:wii021004@naver.com)
-
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -43,3 +40,5 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
  
+# :mailbox_with_mail: Contact Me
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wii021004@naver.com)](mailto:wii021004@naver.com)
