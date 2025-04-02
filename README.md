@@ -71,4 +71,4 @@ ICT 멘토링 이브와 공모전 참여 <br><br>
 <br>
  
 ## 📬 Contact Me
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wii021004@naver.com)](mailto:wii021004@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:wii021004@naver.com)](mailto:wii021004@naver.com)
