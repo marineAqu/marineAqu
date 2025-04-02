@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 <!--
 **marineAqu/marineAqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,13 +19,34 @@ Here are some ideas to get you started:
 <!--
 ![marineAqu's GitHub stats](https://github-readme-stats.vercel.app/api?username=marineAqu&show_icons=true&theme=transparent)
 -->
+<br>
 
-# ✅ Career
-2025.02 ~ <br>
-[LGU+] 유레카 백앤드 과정 2기
+## ✅ Career
+<b>2025.01 ~ ing</b> <br>
+[LGU+] 유레카 백앤드 과정 2기 <br><br>
 
+<b> 2022.10.12 ~ 2022.12.16 </b> <br>
+전공F킬러 - C언어 멘토 <br><br>
 
-# 💪Skills
+<b> 2023.05.15 ~ 2023.10.11 </b> <br>
+SW봉사단 활동 - 가천대학교 방과후 수업 <br><br>
+
+<b> 2023.09.18 ~ 2024.01.16 </b> <br>
+AISW developers 공모전 최우수상 수상 <br><br>
+
+<b> 2024.04.01 ~ 2024.10.12 </b> <br>
+ICT 멘토링 이브와 공모전 참여 <br><br>
+
+## 📄 Certificate
+
+| 취득일       | 자격증                      | 발급기관          |
+|------------|----------------------------|----------------|
+| 2025.04.04 | SQLD       | 한국데이터산업진흥원 |
+| 2024.12.11 | 정보처리기사                  | 한국산업인력공단    |
+
+<br>
+
+## 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -38,6 +59,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+<br>
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -45,6 +67,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
+<br>
  
-# :mailbox_with_mail: Contact Me
+## :mailbox_with_mail: Contact Me
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wii021004@naver.com)](mailto:wii021004@naver.com)
