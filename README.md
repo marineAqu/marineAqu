@@ -47,7 +47,7 @@ ICT 멘토링 이브와 공모전 참여 <br><br>
 
 <br>
 
-## 💪Skills
+## 💪 Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -70,5 +70,5 @@ ICT 멘토링 이브와 공모전 참여 <br><br>
 
 <br>
  
-## :mailbox_with_mail: Contact Me
+## 📬 Contact Me
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wii021004@naver.com)](mailto:wii021004@naver.com)
