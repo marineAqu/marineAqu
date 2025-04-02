@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 전공F킬러 - C언어 멘토 <br><br>
 
 <b> 2023.05.15 ~ 2023.10.11 </b> <br>
-SW봉사단 활동 - 가천대학교 방과후 수업 <br><br>
+SW봉사단 - 가천고등학교 방과후 수업 <br><br>
 
 <b> 2023.09.18 ~ 2024.01.16 </b> <br>
 AISW developers 공모전 최우수상 수상 <br><br>
