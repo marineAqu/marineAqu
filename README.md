@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nowmarine)](https://solved.ac/nowmarine/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marineAqu&layout=compact&hide=csharp)
 <!--
 ![marineAqu's GitHub stats](https://github-readme-stats.vercel.app/api?username=marineAqu&show_icons=true&theme=transparent)
 -->
