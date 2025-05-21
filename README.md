@@ -1,3 +1,6 @@
+
+<div align="center">
+ 
 ![wave](https://capsule-render.vercel.app/api?type=wave&color=b6dceb&fontColor=003366&height=200&text=marineAqu)
 
 
@@ -16,7 +19,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nowmarine)](https://solved.ac/nowmarine/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marineAqu&layout=compact&hide=csharp)
