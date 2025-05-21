@@ -1,3 +1,6 @@
+![wave](https://capsule-render.vercel.app/api?type=wave&color=b6dceb&height=200&text=marineAqu)
+
+
 ## 🌊 marineAqu 
 
 <!--
