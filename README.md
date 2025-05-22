@@ -44,7 +44,7 @@ AISW developers 공모전 최우수상 수상 <br><br>
 SW봉사단 - 가천고등학교 방과후 수업 <br><br>
 
 <b> 2022.10.12 ~ 2022.12.16 </b> <br>
-전공F킬러 - C언어 멘토 <br><br>
+전공 멘토링 - C언어 멘토 <br><br>
 
 
 ## 📄 Certificate
